@@ -1,2 +1,5 @@
-# ruststoryreader
-Story Render Engine written in Rust
+# RustStoryReader
+
+A script based interactive story system for command line. Can be adapted for GUI later on.
+
+test change for branch testing
