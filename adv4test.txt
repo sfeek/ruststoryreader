@@ -16,7 +16,7 @@ next
 !@count==@total:#ask:#loop
 :skip
 :ask
-? try agian?:#start
+? try again?:#start
 ? exit?:#leave
 :leave
 Done!
